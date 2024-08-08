@@ -4,7 +4,7 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 
 // const openai = new OpenAI({
-//     // apiKey: "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",
+//
 //     apiKey: process.env.API_KEY,
 // });
 
