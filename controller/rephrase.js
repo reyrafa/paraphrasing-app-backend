@@ -16,7 +16,7 @@ const model = genAI.getGenerativeModel({
 
 // const openai = new OpenAI({
 //
-//     apiKey: process.env.API_KEY,
+//     apiKey: process.env.API_KEY, 
 // });
 
 const rephraseSentence = async (request, response) => {
